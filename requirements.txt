@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+requests
+matplotlib
+seaborn
+scipy
+nltk
+spacy
+geopy
+folium
+streamlit-option-menu
+streamlit-lottie
+openai
